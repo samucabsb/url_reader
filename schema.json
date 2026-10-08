@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/web-text-extractor.schema.json",
+  "title": "Web Text Extractor RAG Document",
+  "type": "object",
+  "required": ["schema_version", "document_id", "metadata", "conteudo", "recursos", "extracao"],
+  "properties": {
+    "schema_version": {"type": "string"},
+    "document_id": {"type": "string"},
+    "metadata": {
+      "type": "object",
+      "required": ["url", "url_final", "titulo", "categorias", "palavras_chave", "encoding"],
+      "properties": {
+        "url": {"type": "string", "format": "uri"},
+        "url_final": {"type": "string", "format": "uri"},
+        "url_canonica": {"type": ["string", "null"]},
+        "titulo": {"type": ["string", "null"]},
+        "descricao": {"type": ["string", "null"]},
+        "autor": {"type": ["string", "null"]},
+        "data_publicacao": {"type": ["string", "null"]},
+        "data_extracao": {"type": ["string", "null"]},
+        "idioma": {"type": ["string", "null"]},
+        "site_nome": {"type": ["string", "null"]},
+        "categorias": {"type": "array", "items": {"type": "string"}},
+        "palavras_chave": {"type": "array", "items": {"type": "string"}},
+        "encoding": {"type": ["string", "null"]}
+      }
+    },
+    "conteudo": {
+      "type": "object",
+      "required": ["titulo_principal", "secoes", "texto_plano"],
+      "properties": {
+        "titulo_principal": {"type": ["string", "null"]},
+        "secoes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["titulo", "nivel", "conteudo"],
+            "properties": {
+              "titulo": {"type": ["string", "null"]},
+              "nivel": {"type": ["integer", "null"], "minimum": 1, "maximum": 6},
+              "conteudo": {
+                "type": "array",
+                "items": {"type": "object"}
+              }
+            }
+          }
+        },
+        "texto_plano": {"type": "string"}
+      }
+    },
+    "recursos": {
+      "type": "object",
+      "required": ["links", "imagens"],
+      "properties": {
+        "links": {"type": "array", "items": {"type": "object"}},
+        "imagens": {"type": "array", "items": {"type": "object"}}
+      }
+    },
+    "extracao": {
+      "type": "object",
+      "required": ["metodo", "conteudo_encontrado", "status_http", "hash_conteudo", "observacoes", "qualidade"],
+      "properties": {
+        "metodo": {"type": "string"},
+        "metodo_aquisicao": {"type": ["string", "null"]},
+        "conteudo_encontrado": {"type": "boolean"},
+        "status_http": {"type": ["integer", "null"]},
+        "redirecionamentos": {"type": "integer", "minimum": 0},
+        "tempo_download_s": {"type": "number", "minimum": 0},
+        "hash_conteudo": {"type": "string"},
+        "observacoes": {"type": "array", "items": {"type": "string"}},
+        "qualidade": {"type": "object"},
+        "estatisticas": {"type": "object"}
+      }
+    }
+  }
+}

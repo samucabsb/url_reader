@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6a2845a1ea985d39",
+  "metadata": {
+    "url": "https://www.saude.df.gov.br/hospitais-e-upas",
+    "url_final": "https://www.saude.df.gov.br/hospitais-e-upas",
+    "url_canonica": "https://www.saude.df.gov.br/hospitais-e-upas",
+    "titulo": "Atendimento médico de Urgência e Emergência – Hospitais e Unidades de Pronto Atendimento (UPAs) - Secretaria de Saúde do Distrito Federal",
+    "descricao": null,
+    "autor": null,
+    "data_publicacao": null,
+    "idioma": "pt-BR",
+    "site_nome": "Secretaria de Saúde do Distrito Federal",
+    "categorias": [],
+    "palavras_chave": [],
+    "encoding": "UTF-8",
+    "data_extracao": "2026-10-06T19:50:35.690155Z"
+  },
+  "conteudo": {
+    "titulo_principal": "Atendimento médico de Urgência e Emergência – Hospitais e Unidades de Pronto Atendimento (UPAs) - Secretaria de Saúde do Distrito Federal",
+    "secoes": [
+      {
+        "titulo": "Atendimento médico de Urgência e Emergência – Hospitais e Unidades de Pronto Atendimento (UPAs)",
+        "nivel": 3,
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "1.1 Atendimento médico de Urgência e Emergência – Hospitais"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Descrição"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "A rede de atenção às urgências e emergências no âmbito da Secretária de Estado de Saúde do Distrito Federal é constituída pelos Hospitais Regionais e Unidades de Pronto Atendimento (UPAs), de que o Instituto Hospital de Base (IHB), o Hospital Regional da Santa Maria (HRSM) e as 06 (seis) Unidades de Pronto Atendimento (UPAs) estão sob gestão do Instituto de Gestão Estratégica de Saúde do Distrito Federal (IGESDF)."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Requisitos"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Comparecimento espontâneo ao guichê de atendimento do Pronto Socorro do hospital/UPA munido de documentos de identificação para confecção da guia de atendimento."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Observação: se você não tiver documentos de identificação também será atendido na emergência"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Forma de acesso"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "O horário de atendimento é ininterrupto (24 horas)."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Você deve saber que o atendimento obedece a uma classificação de risco (Primeiro os pacientes classificados em Vermelho, seguido dos pacientes classificados em Laranja, e então dos pacientes classificados em Amarelo)."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Locais de Atendimento:"
+          }
+        ]
+      }
+    ],
+    "texto_plano": "Atendimento médico de Urgência e Emergência – Hospitais e Unidades de Pronto Atendimento (UPAs)\n\n1.1 Atendimento médico de Urgência e Emergência – Hospitais\n\nDescrição\n\nA rede de atenção às urgências e emergências no âmbito da Secretária de Estado de Saúde do Distrito Federal é constituída pelos Hospitais Regionais e Unidades de Pronto Atendimento (UPAs), de que o Instituto Hospital de Base (IHB), o Hospital Regional da Santa Maria (HRSM) e as 06 (seis) Unidades de Pronto Atendimento (UPAs) estão sob gestão do Instituto de Gestão Estratégica de Saúde do Distrito Federal (IGESDF).\n\nRequisitos\n\nComparecimento espontâneo ao guichê de atendimento do Pronto Socorro do hospital/UPA munido de documentos de identificação para confecção da guia de atendimento.\n\nObservação: se você não tiver documentos de identificação também será atendido na emergência\n\nForma de acesso\n\nO horário de atendimento é ininterrupto (24 horas).\n\nVocê deve saber que o atendimento obedece a uma classificação de risco (Primeiro os pacientes classificados em Vermelho, seguido dos pacientes classificados em Laranja, e então dos pacientes classificados em Amarelo).\n\nLocais de Atendimento:"
+  },
+  "recursos": {
+    "links": [
+      {
+        "texto": "Asa Norte",
+        "url": "https://www.saude.df.gov.br/asa-norte-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Asa Sul",
+        "url": "https://www.saude.df.gov.br/asa-sul-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Brazlândia",
+        "url": "https://www.saude.df.gov.br/brazlandia-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Ceilândia",
+        "url": "https://www.saude.df.gov.br/ceilandia-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Gama",
+        "url": "https://www.saude.df.gov.br/gama-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Guará",
+        "url": "https://www.saude.df.gov.br/guara-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Núcleo Bandeirante",
+        "url": "https://www.saude.df.gov.br/nb-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Paranoá",
+        "url": "https://www.saude.df.gov.br/paranoa-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Planaltina",
+        "url": "https://www.saude.df.gov.br/planaltina-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Recanto das Emas",
+        "url": "https://www.saude.df.gov.br/rec-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "São Sebastião",
+        "url": "https://www.saude.df.gov.br/sao-sebastiao-urgencia/"
+      },
+      {
+        "texto": "Samambaia",
+        "url": "https://www.saude.df.gov.br/samambaia-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Santa Maria",
+        "url": "https://www.saude.df.gov.br/santa-maria-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Sobradinho",
+        "url": "https://www.saude.df.gov.br/sobradinho-urgencia-e-emergencia/"
+      },
+      {
+        "texto": "Taguatinga",
+        "url": "https://www.saude.df.gov.br/taguatinga-urgencia-emergencia/"
+      }
+    ],
+    "imagens": []
+  },
+  "extracao": {
+    "metodo": "trafilatura_xml",
+    "metodo_aquisicao": "requests",
+    "conteudo_encontrado": true,
+    "status_http": 200,
+    "hash_conteudo": "166ce4f96eb7f22fd46395fb68c7387bfacf1babddc944ad9ce85b1324c21c11",
+    "observacoes": [],
+    "qualidade": {
+      "pontuacao": 90,
+      "nivel": "alto",
+      "fatores": [
+        "conteudo_principal_encontrado",
+        "extracao_estruturada_trafilatura"
+      ]
+    },
+    "redirecionamentos": 0,
+    "tempo_download_s": 0.514,
+    "estatisticas": {
+      "caracteres": 1168,
+      "palavras": 173,
+      "secoes": 1,
+      "links": 15,
+      "imagens": 0
+    }
+  }
+}

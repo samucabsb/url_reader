@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "document_id": "4f78ab33c535e260",
+  "metadata": {
+    "url": "https://info.saude.df.gov.br/busca-saude-cepav/",
+    "url_final": "https://info.saude.df.gov.br/busca-saude-cepav/",
+    "url_canonica": "https://info.saude.df.gov.br/busca-saude-cepav/",
+    "titulo": "Busca Saúde CEPAV -",
+    "descricao": "Infosaúde > Busca Saúde Centro de Especialidade para Atenção às Pessoas em Situação de Violência Sexual, Familiar e Doméstica – […]",
+    "autor": null,
+    "data_publicacao": "2024-05-11T16:57:12+00:00",
+    "idioma": "pt-BR",
+    "site_nome": null,
+    "categorias": [],
+    "palavras_chave": [],
+    "encoding": "UTF-8",
+    "data_extracao": "2026-10-06T19:50:53.531236Z"
+  },
+  "conteudo": {
+    "titulo_principal": "Busca Saúde CEPAV -",
+    "secoes": [
+      {
+        "titulo": null,
+        "nivel": null,
+        "conteudo": [
+          {
+            "tipo": "paragrafo",
+            "texto": "Infosaúde > Busca Saúde"
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "O Centro de Especialidade para Atenção às Pessoas em Situação de Violência Sexual, Familiar e Doméstica (CEPAV) é o estabelecimento de saúde responsável por prestar acolhimento, suporte terapêutico, médico e psicossocial às pessoas em situação de violência interpessoal."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "O CEPAV oferece acolhimento às pessoas em situação de violência interpessoal e suas famílias, encaminhamentos e orientações gerais, atendimento multiprofissional individual, atendimento multiprofissional em grupo para crianças e adolescentes, atendimento multiprofissional em grupo para mulheres, atendimento médico ambulatorial para crianças e adolescentes, ações de prevenção, promoção da saúde e da cultura de paz junto à comunidade e escolas."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Quando houver necessidade de atendimento às pessoas que sofrerem qualquer tipo de violência no Distrito Federal."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Qualquer pessoa que vivencia uma situação de violência. O Ministério da Saúde adota o conceito da Organização Mundial de Saúde (OMS), que considera violência como sendo o “uso intencional de força física ou do poder, real ou em ameaça contra si próprio, contra outra pessoa, ou contra um grupo ou uma comunidade, que resulte ou tenha possibilidade de resultar em lesão, morte, dano psicológico, deficiência de desenvolvimento ou privação”."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Os acessos da comunidade aos serviços ocorrem por meio de encaminhamentos pela Rede Intrassetorial (Unidades de Saúde), pela Rede Intersetorial (Conselho Tutelar, Centros de Referência Especializado da Assistência Social – CREAS, Polícia Militar, Polícia Civil, Órgãos do Judiciário e outros), além de demanda espontânea que é quando o próprio cidadão procura diretamente o serviço."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "É feito o acolhimento, são dadas orientações e encaminhamentos e a depender da necessidade a pessoa é inserida no processo terapêutico."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "É necessário levar os documentos pessoais da pessoa em situação de violência (carteira de identidade ou certidão de nascimento)."
+          },
+          {
+            "tipo": "paragrafo",
+            "texto": "Secretaria de Saúde do Distrito Federal Desenvolvido pela Diretoria de Gestão de Informações Estratégicas – DGIE/SETIS/SES – DF | 2026 Infosaúde | CIEGES-DF"
+          }
+        ]
+      }
+    ],
+    "texto_plano": "Infosaúde > Busca Saúde\n\nO Centro de Especialidade para Atenção às Pessoas em Situação de Violência Sexual, Familiar e Doméstica (CEPAV) é o estabelecimento de saúde responsável por prestar acolhimento, suporte terapêutico, médico e psicossocial às pessoas em situação de violência interpessoal.\n\nO CEPAV oferece acolhimento às pessoas em situação de violência interpessoal e suas famílias, encaminhamentos e orientações gerais, atendimento multiprofissional individual, atendimento multiprofissional em grupo para crianças e adolescentes, atendimento multiprofissional em grupo para mulheres, atendimento médico ambulatorial para crianças e adolescentes, ações de prevenção, promoção da saúde e da cultura de paz junto à comunidade e escolas.\n\nQuando houver necessidade de atendimento às pessoas que sofrerem qualquer tipo de violência no Distrito Federal.\n\nQualquer pessoa que vivencia uma situação de violência. O Ministério da Saúde adota o conceito da Organização Mundial de Saúde (OMS), que considera violência como sendo o “uso intencional de força física ou do poder, real ou em ameaça contra si próprio, contra outra pessoa, ou contra um grupo ou uma comunidade, que resulte ou tenha possibilidade de resultar em lesão, morte, dano psicológico, deficiência de desenvolvimento ou privação”.\n\nOs acessos da comunidade aos serviços ocorrem por meio de encaminhamentos pela Rede Intrassetorial (Unidades de Saúde), pela Rede Intersetorial (Conselho Tutelar, Centros de Referência Especializado da Assistência Social – CREAS, Polícia Militar, Polícia Civil, Órgãos do Judiciário e outros), além de demanda espontânea que é quando o próprio cidadão procura diretamente o serviço.\n\nÉ feito o acolhimento, são dadas orientações e encaminhamentos e a depender da necessidade a pessoa é inserida no processo terapêutico.\n\nÉ necessário levar os documentos pessoais da pessoa em situação de violência (carteira de identidade ou certidão de nascimento).\n\nSecretaria de Saúde do Distrito Federal Desenvolvido pela Diretoria de Gestão de Informações Estratégicas – DGIE/SETIS/SES – DF | 2026 Infosaúde | CIEGES-DF"
+  },
+  "recursos": {
+    "links": [],
+    "imagens": []
+  },
+  "extracao": {
+    "metodo": "trafilatura_xml",
+    "metodo_aquisicao": "requests",
+    "conteudo_encontrado": true,
+    "status_http": 200,
+    "hash_conteudo": "46e88436b5716acc84586a35e9ebfa9fe89a342f2ba87f5774075767c378a3f4",
+    "observacoes": [],
+    "qualidade": {
+      "pontuacao": 100,
+      "nivel": "alto",
+      "fatores": [
+        "conteudo_principal_encontrado",
+        "extracao_estruturada_trafilatura"
+      ]
+    },
+    "redirecionamentos": 0,
+    "tempo_download_s": 6.57,
+    "estatisticas": {
+      "caracteres": 2107,
+      "palavras": 302,
+      "secoes": 1,
+      "links": 0,
+      "imagens": 0
+    }
+  }
+}
